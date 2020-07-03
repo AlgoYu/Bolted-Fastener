@@ -1,0 +1,43 @@
+.content{
+	text-align: center;
+}
+.content .gasket_img{
+	width: 80%;
+}
+.append_content{
+	margin:0 auto;
+	font-size:18px;
+	background: #FFF473;
+	border-radius:15px;
+	border-left-width: inherit;     
+	border-left-style: solid;
+	border-left-width: 25px;
+	border-left-color: chocolate;
+	text-align:left;
+	width:85%;
+	word-break: break-all;
+	word-wrap: break-word;
+	padding: 13px;
+	line-height:25px;
+}
+.content .search_bt{
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  text-shadow: 0px 1px 0px #eaeaea;
+  -webkit-box-shadow: 1px 1px 3px 0px #666666;
+  -moz-box-shadow: 1px 1px 3px 0px #666666;
+  box-shadow: 1px 1px 3px 0px #666666;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 16px;
+  background: #44c767;
+  padding: 12px 30px 12px 30px;
+  border: solid #18ab29 1px;
+  text-decoration: none;
+}
+.content .search_bt:hover {
+  color: #ffffff;
+  background: #5cbf2a;
+  text-decoration: none;
+}
